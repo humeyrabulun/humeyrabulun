@@ -5,8 +5,9 @@
 - 🎓 I'm currently a senior student studying **Management Information Systems**.
 - 🚀 I'm currently working on **Full-Stack Development** (N-tier architecture, Repository Pattern, SOLID principles).
 - 🌱 I regularly develop applications using **C#, ASP.NET Core Web API, React Native, and SQL**.
-- 📫 How to reach me: **[bulunhumeyra@gmail.com](mailto:bulunhumeyra@gmail.com)**
-
+- 📫 How to reach me: **[bulunhumeyra@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=bulunhumeyra@gmail.com)**
+ 
+    
 ### Connect with me:
 <a href="https://www.linkedin.com/in/h%C3%BCmeyra-bulun-9aa1b2297" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" />
